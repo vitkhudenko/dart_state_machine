@@ -1,7 +1,6 @@
 name: dart_state_machine
 description: A general purpose finite-state machine for Dart developers.
 version: 0.3.2
-author: Vitaliy Khudenko <vitaliy.khudenko@gmail.com>
 homepage: https://github.com/vitkhudenko/dart_state_machine
 
 environment:
