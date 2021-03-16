@@ -84,7 +84,7 @@ var stateMachine = StateMachineBuilder<MySessionEvent, MySessionState>()
 Meaning of the above sample configuration is that:
 * There are 3 possible session states (`active`, `inactive` and `forgotten`).
 * There are 3 possible events (`login`, `logout` and `logoutAndForget`).
-* StateMachine's initial state is `ACTIVE`.
+* StateMachine's initial state is `active`.
 * There are 3 possible state machine transitions:
 
 |Event            |State path              |
